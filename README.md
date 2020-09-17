@@ -1,2 +1,2 @@
 # type-ahead
-Link to the deployed app [here](https://volodya1989.github.io/type-ahead/).
+Link to the deployed app [here](https://volodya1989.github.io/JS-type-ahead/).
